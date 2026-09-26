@@ -2,6 +2,10 @@
 
 Garmin Connect IQ Watch Face for the Enduro 3, built with Monkey C.
 
+<p align="center">
+  <img src="docs/watch-face.jpg" alt="Liam watch face on a Garmin Enduro 3" width="480">
+</p>
+
 ## Prerequisites
 
 - macOS
