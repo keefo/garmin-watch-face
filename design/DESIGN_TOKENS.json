@@ -1,0 +1,29 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "name": "Mark-Enduro Tactical Telemetry Tokens",
+  "version": "3.0.0",
+  "color": {
+    "background": { "$value": "#000000", "$type": "color" },
+    "text": {
+      "primary": { "$value": "#FFFFFF", "$type": "color" },
+      "secondary": { "$value": "#A1A1AA", "$type": "color" }
+    },
+    "arc": {
+      "cyan": { "$value": "#00F0FF", "$type": "color" },
+      "darkCyan": { "$value": "#005566", "$type": "color" }
+    },
+    "status": {
+      "caution": { "$value": "#FF9900", "$type": "color" },
+      "alert": { "$value": "#FF0033", "$type": "color" }
+    }
+  },
+  "display": {
+    "target": "Garmin Enduro 3",
+    "technology": "Transflective MIP (Memory-In-Pixel)",
+    "resolution": { "width": 280, "height": 280, "unit": "px" },
+    "paletteSize": 64
+  },
+  "fontFamily": {
+    "mono": { "$value": "Consolas, 'Courier New', monospace", "$type": "fontFamily" }
+  }
+}

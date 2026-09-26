@@ -1,0 +1,25 @@
+<drawables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <bitmap id="LauncherIcon" filename="launcher_icon.svg" dithering="none" />
+    <bitmap id="HeartIcon" filename="heart.svg" dithering="none" />
+    <bitmap id="FootstepsIcon" filename="footsteps.svg" dithering="none" />
+    <bitmap id="Vo2MaxIcon" filename="vo2max.svg" dithering="none" />
+    <bitmap id="BodyIcon" filename="body.svg" dithering="none" />
+    <bitmap id="EdgeText" filename="edge_text.svg" dithering="none" />
+    <bitmap id="EdgeTextDark" filename="edge_text_dark.svg" dithering="none" />
+    <bitmap id="NightSky" filename="night_sky.png" dithering="none" />
+    <bitmap id="ChargingIcon" filename="charging.svg" dithering="none" />
+    <bitmap id="WeatherClear" filename="weather/clear.svg" dithering="none" />
+    <bitmap id="WeatherClearNight" filename="weather/clear_night.svg" dithering="none" />
+    <bitmap id="WeatherCloud" filename="weather/cloud.svg" dithering="none" />
+    <bitmap id="WeatherFog" filename="weather/fog.svg" dithering="none" />
+    <bitmap id="WeatherMixed" filename="weather/mixed.svg" dithering="none" />
+    <bitmap id="WeatherNightCloudy" filename="weather/night_cloudy.svg" dithering="none" />
+    <bitmap id="WeatherNightRain" filename="weather/night_rain.svg" dithering="none" />
+    <bitmap id="WeatherPartlyCloudy" filename="weather/partly_cloudy.svg" dithering="none" />
+    <bitmap id="WeatherRain" filename="weather/rain.svg" dithering="none" />
+    <bitmap id="WeatherHeavyRain" filename="weather/heavy_rain.svg" dithering="none" />
+    <bitmap id="WeatherSnow" filename="weather/snow.svg" dithering="none" />
+    <bitmap id="WeatherHeavySnow" filename="weather/heavy_snow.svg" dithering="none" />
+    <bitmap id="WeatherThunderstorm" filename="weather/thunderstorm.svg" dithering="none" />
+    <bitmap id="WeatherWind" filename="weather/wind.svg" dithering="none" />
+</drawables>

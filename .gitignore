@@ -1,0 +1,6 @@
+bin/
+*.prg
+*.iq
+*.key
+developer_key
+.DS_Store

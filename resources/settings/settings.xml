@@ -1,0 +1,20 @@
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <setting propertyKey="@Properties.TimeFont" title="@Strings.TimeFontTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TimeFontBionicSemiBold</listEntry>
+            <listEntry value="1">@Strings.TimeFontRobotoCondensedBold</listEntry>
+            <listEntry value="2">@Strings.TimeFontRobotoCondensedRegular</listEntry>
+            <listEntry value="3">@Strings.TimeFontRobotoCondensedItalic</listEntry>
+            <listEntry value="4">@Strings.TimeFontNotoSansSCMedium</listEntry>
+            <listEntry value="5">@Strings.TimeFontKosugiRegular</listEntry>
+            <listEntry value="6">@Strings.TimeFontNanumGothicExtraBold</listEntry>
+            <listEntry value="7">@Strings.TimeFontPridiSemiBold</listEntry>
+            <listEntry value="8">@Strings.TimeFontNotoNaskhArabicBold</listEntry>
+            <listEntry value="9">@Strings.TimeFontNotoNaskhArabicRegular</listEntry>
+            <listEntry value="10">@Strings.TimeFontNotoSansHebrewBold</listEntry>
+            <listEntry value="11">@Strings.TimeFontNotoSansHebrewRegular</listEntry>
+            <listEntry value="12">@Strings.TimeFontNotoSansArmenianBold</listEntry>
+            <listEntry value="13">@Strings.TimeFontNotoSansArmenianRegular</listEntry>
+        </settingConfig>
+    </setting>
+</settings>
