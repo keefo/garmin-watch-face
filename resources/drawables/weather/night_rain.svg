@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 64 64">
     <path d="M 47.42 25.89 A 9 9 0 1 0 37.86 13.15 A 8 8 0 0 1 47.42 25.89 Z" fill="#B0BEC5" />
-    <path transform="translate(-6.68 -21.15) scale(0.095)" d="m480,466c-1.408,0 -2.784,0.032 -4.128,0.096c-14.24,-55.808 -64.864,-96.096 -123.872,-96.096c-45.6,0 -87.968,24.8 -110.752,64c-0.416,0 -0.832,0 -1.248,0c-52.928,0 -96,43.072 -96,96c0,52.928 43.072,96 96,96l240,0c44.128,0 80,-35.872 80,-80c0,-44.128 -35.872,-80 -80,-80z" fill="#57A0EE" />
-    <line x1="24" y1="47" x2="22" y2="53.0" stroke="#91C0F8" stroke-width="2.6" stroke-linecap="round" />
-    <line x1="31" y1="49" x2="29" y2="55.0" stroke="#91C0F8" stroke-width="2.6" stroke-linecap="round" />
-    <line x1="38" y1="47" x2="36" y2="53.0" stroke="#91C0F8" stroke-width="2.6" stroke-linecap="round" />
+    <path transform="translate(-6.68 -21.15) scale(0.095)" d="m480,466c-1.408,0 -2.784,0.032 -4.128,0.096c-14.24,-55.808 -64.864,-96.096 -123.872,-96.096c-45.6,0 -87.968,24.8 -110.752,64c-0.416,0 -0.832,0 -1.248,0c-52.928,0 -96,43.072 -96,96c0,52.928 43.072,96 96,96l240,0c44.128,0 80,-35.872 80,-80c0,-44.128 -35.872,-80 -80,-80z" fill="#0055FF" />
+    <line x1="24" y1="47" x2="22" y2="53.0" stroke="#55AAFF" stroke-width="2.6" stroke-linecap="round" />
+    <line x1="31" y1="49" x2="29" y2="55.0" stroke="#55AAFF" stroke-width="2.6" stroke-linecap="round" />
+    <line x1="38" y1="47" x2="36" y2="53.0" stroke="#55AAFF" stroke-width="2.6" stroke-linecap="round" />
 </svg>

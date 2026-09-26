@@ -445,7 +445,8 @@ class LiamView extends WatchUi.WatchFace {
             level = 100;
         }
 
-        var color = Graphics.COLOR_BLUE;
+        // iOS system green; the 64-colour display shows its nearest shade.
+        var color = 0x34C759;
         if (level < 15) {
             color = Graphics.COLOR_RED;
         } else if (level < 30) {
